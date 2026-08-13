@@ -7413,7 +7413,6 @@ ad.jp.ap.valuecommerce.com
 ad.jp.doubleclick.net
 ad.jugem.jp
 ad.juksr.com
-ad.juksy.com
 ad.jxnews.com.cn
 ad.kakao.com
 ad.kakaobank.com
@@ -8101,7 +8100,6 @@ adbmetrics.welife.es
 adbmetrics.xn--futuroenespaol-1nb.es
 adbmi.com
 adbn.masterinvest.info
-adbn.ru
 adbomb.ru
 adboost.finalid.com
 adboost.net
@@ -15060,8 +15058,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -16042,7 +16040,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -16524,7 +16521,6 @@ analytics.cdn.live
 analytics.cdn.v2.statmuse.com
 analytics.cdnweb.info
 analytics.ceneo.pl
-analytics.centrolilac.it
 analytics.ceu.com
 analytics.chaletdejardin.fr
 analytics.changiairport.com
@@ -17802,7 +17798,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -21282,7 +21277,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21417,7 +21411,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -31917,6 +31910,7 @@ capig.zerda.academy
 capig2.brummble.com
 capigapi.carflix.com.br
 capigateway.connexia.com
+capigateway.thegamersclub.com.au
 capinfoproreport.batiactu.com
 capis.spodlady.com
 capiserver.formenatoz.com
@@ -33682,7 +33676,6 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampdsp.com
-cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -35965,7 +35958,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickmsummer.com
@@ -47164,7 +47156,6 @@ data.member.aware.com.au
 data.member.unitedhealthcare.com
 data.membership.chowtaifook.com
 data.mentalabs.org
-data.mesradios.ch
 data.message.aircanada.com
 data.message.healthybluela.com
 data.messages.buick.com
@@ -54391,7 +54382,6 @@ ecommercegoodies.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
-ecommunication.mti.com
 ecomsend.com
 econda-monitor.de
 economicadvantage.midamerican.com
@@ -71237,7 +71227,6 @@ gtm.terrasdeparagon.com.br
 gtm.tessile.ro
 gtm.testegabrielrios.com.br
 gtm.testmottagningen.se
-gtm.tetobroker.com.br
 gtm.thalassea.com.au
 gtm.thausarquitetura.com
 gtm.the-page.co.uk
@@ -72655,6 +72644,7 @@ hammocksmellie.cyou
 hammocksteedconjecture.com
 hamoney.xyz
 hamrzyudxrhyb.online
+hamsayo.com
 hamster.consentkit.io
 hamster.darstellendekuenste.de
 hamsterregisterlater.com
@@ -122454,7 +122444,6 @@ poorlytwitter.com
 poorlywondrousox.shop
 pop-convert.com
 pop-dev.ad4game.com
-pop-under.ru
 pop.adtilt.com
 pop.code.mytanwan.com
 pop.deinkinderdoc.de
@@ -124390,7 +124379,6 @@ protextdatura.cyou
 protexting.com
 prothesistendon.com
 protibondhibd.com
-protizer.ru
 proto2ad.durasite.net
 protoawe.com
 protoawegw.com
@@ -131246,7 +131234,6 @@ refbanners.com
 refbanners.website
 refectsdodgily.cyou
 refer.ahsfriends.com
-refer.ccbill.com
 refer.clearme.com
 refer.discover.com
 refer.dna.ancestry.com
@@ -135522,7 +135509,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -157693,6 +157679,8 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -168535,7 +168523,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swell080227.shop
@@ -184544,6 +184531,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -194718,7 +194706,6 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
-www.www.my-exodus.com.co
 www.wwwhwgo.com
 www.wwwmyboostnow.com
 www.xadsmart.com
@@ -198947,7 +198934,6 @@ yukclick.me
 yukefi.guru
 yukexxkccjcum.space
 yule.360.com
-yule.fulevmy.com
 yulecheng.tmdss.com
 yumaburys.cfd
 yumaunpot.cfd
